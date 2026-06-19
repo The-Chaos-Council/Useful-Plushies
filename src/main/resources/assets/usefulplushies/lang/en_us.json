@@ -1,0 +1,13 @@
+{
+  "itemGroup.usefulplushies": "Example Mod Tab",
+  "block.usefulplushies.example_block": "Example Block",
+  "item.usefulplushies.example_item": "Example Item",
+
+  "usefulplushies.configuration.title": "Useful Plushies Configs",
+  "usefulplushies.configuration.section.usefulplushies.common.toml": "Useful Plushies Configs",
+  "usefulplushies.configuration.section.usefulplushies.common.toml.title": "Useful Plushies Configs",
+  "usefulplushies.configuration.items": "Item List",
+  "usefulplushies.configuration.logDirtBlock": "Log Dirt Block",
+  "usefulplushies.configuration.magicNumberIntroduction": "Magic Number Text",
+  "usefulplushies.configuration.magicNumber": "Magic Number"
+}
