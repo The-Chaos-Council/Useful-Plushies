@@ -1,6 +1,6 @@
 {
-  "itemGroup.usefulplushies": "Example Mod Tab",
-  "block.usefulplushies.example_block": "Example Block",
+  "itemGroup.usefulplushies": "Plushies",
+  "block.usefulplushies.plush_block": "Plushie",
   "item.usefulplushies.example_item": "Example Item",
 
   "usefulplushies.configuration.title": "Useful Plushies Configs",
