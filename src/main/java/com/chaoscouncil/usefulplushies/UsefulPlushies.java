@@ -26,7 +26,7 @@ import net.neoforged.neoforge.registries.DeferredBlock;
 import net.neoforged.neoforge.registries.DeferredHolder;
 import net.neoforged.neoforge.registries.DeferredItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
-import com.chaoscouncil.usefulplushies.PlushBlock;
+//import com.chaoscouncil.usefulplushies.PlushBlock;
 
 import static com.chaoscouncil.usefulplushies.PlushItem.ITEMS;
 
